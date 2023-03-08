@@ -12,6 +12,7 @@ body{
     height: 100vh;
 }
 .text{
+    display: block;
     position: absolute;
     top: 50%;
     width: 100%;
@@ -49,5 +50,5 @@ body{
 }
 .foto4{
     /*primavera*/
-    background-image: url(https://cdn.pixabay.com/photo/2018/01/21/19/57/tree-3097419_640.jpg);
+    background-image: url(https://cdn.pixabay.com/photo/2012/08/27/14/19/mountains-55067__340.png);
 }
